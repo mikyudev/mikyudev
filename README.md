@@ -1,8 +1,14 @@
+<div align="left">
+  <sub><strong>mikyudev</strong> / README.md</sub>
+</div>
+
+<br />
+
 <div align="center">
 
-# 이규성 | mikyu
+# Hello! I'm Gyuseong
 
-### Frontend Developer
+### Frontend Developer · 이규성
 
 **2025.07 ~ 2026.07 삼성청년SW·AI아카데미 14기**
 
@@ -13,16 +19,15 @@
 
 </div>
 
----
+<br />
 
-## About Me
+## About me
 
-- React 기반의 프론트엔드 화면 구현에 집중하고 있습니다.
-- Figma를 활용해 사용자 흐름을 먼저 설계하고, 화면 구현까지 연결합니다.
-- 프로젝트 발표자료, 목업, 영상 등 결과물을 설명하는 시각 자료 제작도 함께 경험했습니다.
-- AI 연동 기능과 인터랙션 UI 구현 경험을 바탕으로 사용자에게 자연스러운 화면을 만들고자 합니다.
-
-## Stack
+- 💻 React와 TypeScript 기반의 프론트엔드 화면 구현에 집중하고 있습니다.
+- 🎨 Figma로 사용자 흐름을 먼저 설계하고, 자연스러운 UI/UX로 연결합니다.
+- 🤖 AI 연동 기능과 인터랙션 UI를 함께 다루며 화면의 완성도를 높이고자 합니다.
+- 🏆 SSAFY 14기 자율 프로젝트에서 우수상을 수상했습니다.
+- 🎬 발표자료, 목업, 영상 등 결과물을 설득력 있게 보여주는 작업도 경험했습니다.
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -32,10 +37,41 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## Projects
+<br />
+
+## GitHub stats
+
+<p>
+  <a href="https://github.com/mikyudev">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mikyudev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="mikyudev GitHub stats" />
+  </a>
+  <a href="https://github.com/mikyudev">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikyudev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="mikyudev top languages" />
+  </a>
+</p>
+
+## Top repositories
+
+<p>
+  <a href="https://github.com/mikyudev/TheComet">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikyudev&repo=TheComet&theme=tokyonight&hide_border=true" alt="TheComet" />
+  </a>
+  <a href="https://github.com/mikyudev/coordinator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikyudev&repo=coordinator&theme=tokyonight&hide_border=true" alt="coordinator" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/mikyudev/hyanggi-log">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikyudev&repo=hyanggi-log&theme=tokyonight&hide_border=true" alt="hyanggi-log" />
+  </a>
+  <a href="https://github.com/mikyudev/hangyul">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mikyudev&repo=hangyul&theme=tokyonight&hide_border=true" alt="hangyul" />
+  </a>
+</p>
+
+## Project timeline
 
 | Project | Type | Period | Role |
 | --- | --- | --- | --- |
@@ -44,7 +80,7 @@
 | [hyanggi-log](https://github.com/mikyudev/hyanggi-log) | SSAFY 14기 특화 프로젝트 | 2026.02.19 ~ 2026.04.03 | 프론트엔드, UI/UX, Figma, After Effects 영상 제작 |
 | [hangyul](https://github.com/mikyudev/hangyul) | SSAFY 14기 자율 프로젝트 · 우수상 | 2026.04.06 ~ 2026.05.27 | 프론트엔드, UI/UX, 리팩토링, 영상 편집 |
 
-## Portfolio
+## Contact
 
-- Portfolio Site: https://mikyu-portfolio.vercel.app/
+- Portfolio: https://mikyu-portfolio.vercel.app/
 - Email: 1943067@donga.ac.kr
