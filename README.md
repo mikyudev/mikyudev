@@ -7,7 +7,7 @@
 **2025.07 ~ 2026.07 삼성청년SW·AI아카데미 14기**
 
 사용자의 흐름을 세심하게 읽고, 명확한 UI와 자연스러운 인터랙션으로 완성도 있는 화면을 구현합니다.  
-책임감있는 자세로 언제나 임하겠습니다.
+언제나 책임감있는 자세로 임하겠습니다.
 
 [Portfolio](https://mikyu-portfolio.vercel.app/) · [GitHub](https://github.com/mikyudev) · [Email](mailto:1943067@donga.ac.kr)
 
