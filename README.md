@@ -42,7 +42,7 @@
 | [TheComet](https://github.com/mikyudev/TheComet) | SSAFY 14기 관통 프로젝트 | 2025.11.19 ~ 2025.12.25 | 웹 프로젝트 기초 구현 경험 |
 | [coordinator](https://github.com/mikyudev/coordinator) | SSAFY 14기 공통 프로젝트 | 2026.01.06 ~ 2026.02.09 | AI 연동, FastAPI, 프론트 일부, Figma, 발표자료 |
 | [hyanggi-log](https://github.com/mikyudev/hyanggi-log) | SSAFY 14기 특화 프로젝트 | 2026.02.19 ~ 2026.04.03 | 프론트엔드, UI/UX, Figma, After Effects 영상 제작 |
-| [hangyul](https://github.com/mikyudev/hangyul) | SSAFY 14기 자율 프로젝트 · 우수상 | 2026.04.06 ~ 2026.04.21 | 프론트엔드, UI/UX, 리팩토링, 영상 편집 |
+| [hangyul](https://github.com/mikyudev/hangyul) | SSAFY 14기 자율 프로젝트 · 우수상 | 2026.04.06 ~ 2026.05.27 | 프론트엔드, UI/UX, 리팩토링, 영상 편집 |
 
 ## Portfolio
 
