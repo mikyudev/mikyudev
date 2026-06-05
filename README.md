@@ -84,3 +84,8 @@
 
 - Portfolio: https://mikyu-portfolio.vercel.app/
 - Email: 1943067@donga.ac.kr
+<br />
+
+<div align="center">
+  <img src="./assets/hollow-knight-waking-up.gif" width="120" alt="waking up animation" />
+</div>
