@@ -1,7 +1,7 @@
 <div align="left">
   <sub><strong>mikyudev</strong> / README.md</sub>
   <a href="https://mikyu-portfolio.vercel.app/">
-    <img align="right" src="./assets/hollow-knight-waking-up.gif" width="96" alt="portfolio link animation" />
+    <img align="right" src="./assets/hollow-knight-top-transparent.gif" width="218" alt="portfolio link animation" />
   </a>
 </div>
 
