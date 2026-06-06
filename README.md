@@ -35,7 +35,7 @@ I'm a frontend developer from Korea, building clear UI and natural interactions 
   <code><img height="22" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>
   <code><img height="22" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
   <code><img height="22" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></code>
-  <code><img height="22" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
+  <code><img height="22" alt="GitHub" src="https://cdn.simpleicons.org/github/FFFFFF"></code>
   <code><img height="22" alt="After Effects" src="./assets/icons/after-effects.png"></code>
   <code><img height="22" alt="Premiere Pro" src="./assets/icons/premiere.png"></code>
 </p>
