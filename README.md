@@ -16,12 +16,12 @@ I'm a frontend developer from Korea, building clear UI and natural interactions 
 
 ### About me
 
-- <code><img height="18" alt="SSAFY" src="./assets/icons/ssafy.svg"></code> 2025.07 ~ 2026.07 삼성청년SW·AI아카데미 14기
-- <code><img height="18" alt="React" src="./assets/icons/react.png"></code> <code><img height="18" alt="TypeScript" src="./assets/icons/typescript.png"></code> React와 TypeScript 기반의 프론트엔드 화면 구현에 집중하고 있습니다.
-- <code><img height="18" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code> 사용자 흐름을 먼저 설계하고, 자연스러운 UI/UX로 연결합니다.
-- <code><img height="18" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></code> AI 연동 기능과 인터랙션 UI를 함께 다루며 화면의 완성도를 높이고자 합니다.
-- <code>AWARD</code> SSAFY 14기 자율 프로젝트에서 우수상을 수상했습니다.
-- <code><img height="18" alt="After Effects" src="./assets/icons/after-effects.png"></code> <code><img height="18" alt="Premiere Pro" src="./assets/icons/premiere.png"></code> 발표자료, 목업, 영상 등 결과물을 설득력 있게 보여주는 작업도 경험했습니다.
+- <img height="18" alt="SSAFY" src="./assets/icons/ssafy.svg"> 2025.07 ~ 2026.07 삼성청년SW·AI아카데미 14기
+- <img height="18" alt="React" src="./assets/icons/react.png"> <img height="18" alt="TypeScript" src="./assets/icons/typescript.png"> React와 TypeScript 기반의 프론트엔드 화면 구현에 집중하고 있습니다.
+- <img height="18" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 사용자 흐름을 먼저 설계하고, 자연스러운 UI/UX로 연결합니다.
+- <img height="18" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"> AI 연동 기능과 인터랙션 UI를 함께 다루며 화면의 완성도를 높이고자 합니다.
+- ⭐ SSAFY 14기 자율 프로젝트에서 우수상을 수상했습니다.
+- <img height="18" alt="After Effects" src="./assets/icons/after-effects.png"> <img height="18" alt="Premiere Pro" src="./assets/icons/premiere.png"> 발표자료, 목업, 영상 등 결과물을 설득력 있게 보여주는 작업도 경험했습니다.
 
 <br />
 
