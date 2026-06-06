@@ -1,7 +1,10 @@
 <div align="left">
   <sub><strong>mikyudev</strong> / README.md</sub>
   <a href="https://mikyu-portfolio.vercel.app/">
-    <img align="right" src="./assets/hollow-knight-top-transparent.gif" width="218" alt="portfolio link animation" />
+    <img align="right" src="./assets/hollow-knight-top.gif" width="220" alt="portfolio link animation" />
+  </a>
+  <a href="https://mikyu-portfolio.vercel.app/">
+    <img align="right" src="./assets/hollow-knight-waking-up.gif" width="72" alt="portfolio link animation" />
   </a>
 </div>
 
@@ -31,13 +34,7 @@ I'm a frontend developer from Korea, building clear UI and natural interactions 
   <code><img height="22" alt="React" src="./assets/icons/react.png"></code>
   <code><img height="22" alt="TypeScript" src="./assets/icons/typescript.png"></code>
   <code><img height="22" alt="JavaScript" src="./assets/icons/javascript.png"></code>
-  <code><img height="22" alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"></code>
-  <code><img height="22" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"></code>
   <code><img height="22" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
-  <code><img height="22" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"></code>
-  <code><img height="22" alt="GitHub" src="https://cdn.simpleicons.org/github/FFFFFF"></code>
-  <code><img height="22" alt="After Effects" src="./assets/icons/after-effects.png"></code>
-  <code><img height="22" alt="Premiere Pro" src="./assets/icons/premiere.png"></code>
 </p>
 
 <br />
