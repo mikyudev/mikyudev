@@ -3,9 +3,6 @@
   <a href="https://mikyu-portfolio.vercel.app/">
     <img align="right" src="./assets/hollow-knight-top.gif" width="220" alt="portfolio link animation" />
   </a>
-  <a href="https://mikyu-portfolio.vercel.app/">
-    <img align="right" src="./assets/hollow-knight-waking-up.gif" width="72" alt="portfolio link animation" />
-  </a>
 </div>
 
 <br />
