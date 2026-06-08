@@ -16,7 +16,8 @@
 
 <p>
   일본학과 경영학을 전공하고, SSAFY를 통해 SW·AI 활용 경험을 확장했습니다.<br />
-  문서화·커뮤니케이션·프론트엔드 구현 경험을 바탕으로, 디지털 도구를 활용해 업무 흐름을 더 명확하고 효율적으로 만드는 실무형 인재로 성장하고자 합니다.
+  문서화·커뮤니케이션·프론트엔드 구현 경험을 바탕으로, 디지털 도구를 활용해 업무 흐름을 더 명확하고 효율적으로 만드는<br />
+  실무형 인재로 성장하고자 합니다.
 </p>
 
 <br />
@@ -46,12 +47,42 @@
 
 ### Project timeline
 
-| Project | Type | Period | Contribution |
-| --- | --- | --- | --- |
-| [TheComet](https://github.com/mikyudev/TheComet) | SSAFY 14기 관통 프로젝트 | 2025.11.19 ~ 2025.12.25 | 웹 프로젝트 기초 구현, Git 협업 경험 |
-| [coordinator](https://github.com/mikyudev/coordinator) | SSAFY 14기 공통 프로젝트 | 2026.01.06 ~ 2026.02.09 | AI 연동, FastAPI, UI 구현, Figma, 발표자료 |
-| [hyanggi-log](https://github.com/mikyudev/hyanggi-log) | SSAFY 14기 특화 프로젝트 | 2026.02.19 ~ 2026.04.03 | 프론트엔드, 사용자 흐름 정리, UI/UX, Figma, 영상 제작 |
-| [hangyul](https://github.com/mikyudev/hangyul) | SSAFY 14기 자율 프로젝트 · 우수상 | 2026.04.06 ~ 2026.05.27 | 프론트엔드, 업무 흐름 정리, UI/UX, 리팩토링, 영상 편집 |
+<table>
+  <thead>
+    <tr>
+      <th><sub>Project</sub></th>
+      <th><sub>Type</sub></th>
+      <th><sub>Period</sub></th>
+      <th><sub>Contribution</sub></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td nowrap><sub><a href="https://github.com/mikyudev/TheComet">TheComet</a></sub></td>
+      <td nowrap><sub>SSAFY 관통</sub></td>
+      <td nowrap><sub>25.11.19 ~ 25.12.25</sub></td>
+      <td nowrap><sub>웹 기초 구현 · Git 협업</sub></td>
+    </tr>
+    <tr>
+      <td nowrap><sub><a href="https://github.com/mikyudev/coordinator">coordinator</a></sub></td>
+      <td nowrap><sub>SSAFY 공통</sub></td>
+      <td nowrap><sub>26.01.06 ~ 26.02.09</sub></td>
+      <td nowrap><sub>AI 연동 · FastAPI · UI 구현 · Figma · 발표자료</sub></td>
+    </tr>
+    <tr>
+      <td nowrap><sub><a href="https://github.com/mikyudev/hyanggi-log">hyanggi-log</a></sub></td>
+      <td nowrap><sub>SSAFY 특화</sub></td>
+      <td nowrap><sub>26.02.19 ~ 26.04.03</sub></td>
+      <td nowrap><sub>프론트엔드 · 사용자 흐름 · UI/UX · Figma · 영상</sub></td>
+    </tr>
+    <tr>
+      <td nowrap><sub><a href="https://github.com/mikyudev/hangyul">hangyul</a></sub></td>
+      <td nowrap><sub>SSAFY 자율 · 우수상</sub></td>
+      <td nowrap><sub>26.04.06 ~ 26.05.27</sub></td>
+      <td nowrap><sub>프론트엔드 · 업무 흐름 · UI/UX · 리팩토링 · 영상</sub></td>
+    </tr>
+  </tbody>
+</table>
 
 <br />
 
