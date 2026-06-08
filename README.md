@@ -50,36 +50,36 @@
 <table>
   <thead>
     <tr>
-      <th><sub>Project</sub></th>
-      <th><sub>Type</sub></th>
-      <th><sub>Period</sub></th>
-      <th><sub>Contribution</sub></th>
+      <th>Project</th>
+      <th>Type</th>
+      <th>Period</th>
+      <th>Contribution</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td nowrap><sub><a href="https://github.com/mikyudev/TheComet">TheComet</a></sub></td>
-      <td nowrap><sub>SSAFY 관통</sub></td>
-      <td nowrap><sub>25.11.19 ~ 25.12.25</sub></td>
-      <td nowrap><sub>웹 기초 구현 · Git 협업</sub></td>
+      <td nowrap><a href="https://github.com/mikyudev/TheComet">TheComet</a></td>
+      <td nowrap>SSAFY 관통</td>
+      <td nowrap>25.11.19 ~ 25.12.25</td>
+      <td nowrap>웹 기초 구현 · Git 협업</td>
     </tr>
     <tr>
-      <td nowrap><sub><a href="https://github.com/mikyudev/coordinator">coordinator</a></sub></td>
-      <td nowrap><sub>SSAFY 공통</sub></td>
-      <td nowrap><sub>26.01.06 ~ 26.02.09</sub></td>
-      <td nowrap><sub>AI 연동 · FastAPI · UI 구현 · Figma · 발표자료</sub></td>
+      <td nowrap><a href="https://github.com/mikyudev/coordinator">coordinator</a></td>
+      <td nowrap>SSAFY 공통</td>
+      <td nowrap>26.01.06 ~ 26.02.09</td>
+      <td nowrap>AI 연동 · FastAPI · UI 구현 · Figma · 발표자료</td>
     </tr>
     <tr>
-      <td nowrap><sub><a href="https://github.com/mikyudev/hyanggi-log">hyanggi-log</a></sub></td>
-      <td nowrap><sub>SSAFY 특화</sub></td>
-      <td nowrap><sub>26.02.19 ~ 26.04.03</sub></td>
-      <td nowrap><sub>프론트엔드 · 사용자 흐름 · UI/UX · Figma · 영상</sub></td>
+      <td nowrap><a href="https://github.com/mikyudev/hyanggi-log">hyanggi-log</a></td>
+      <td nowrap>SSAFY 특화</td>
+      <td nowrap>26.02.19 ~ 26.04.03</td>
+      <td nowrap>프론트엔드 · 사용자 흐름 · UI/UX · Figma · 영상</td>
     </tr>
     <tr>
-      <td nowrap><sub><a href="https://github.com/mikyudev/hangyul">hangyul</a></sub></td>
-      <td nowrap><sub>SSAFY 자율 · 우수상</sub></td>
-      <td nowrap><sub>26.04.06 ~ 26.05.27</sub></td>
-      <td nowrap><sub>프론트엔드 · 업무 흐름 · UI/UX · 리팩토링 · 영상</sub></td>
+      <td nowrap><a href="https://github.com/mikyudev/hangyul">hangyul</a></td>
+      <td nowrap>SSAFY 자율 · 우수상</td>
+      <td nowrap>26.04.06 ~ 26.05.27</td>
+      <td nowrap>프론트엔드 · 업무 흐름 · UI/UX · 리팩토링 · 영상</td>
     </tr>
   </tbody>
 </table>
