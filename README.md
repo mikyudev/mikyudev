@@ -19,11 +19,12 @@
 ### About me
 
 - <img height="18" alt="SSAFY" src="./assets/icons/ssafy.svg"> 2025.07 ~ 2026.07 삼성청년SW·AI아카데미 14기
-- <img height="18" alt="React" src="./assets/icons/react.png"> <img height="18" alt="TypeScript" src="./assets/icons/typescript.png"> React와 TypeScript 기반의 프론트엔드 화면 구현에 집중하고 있습니다.
-- <img height="18" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 사용자 흐름을 먼저 설계하고, 자연스러운 UI/UX로 연결합니다.
-- <img height="18" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"> AI 연동 기능과 인터랙션 UI를 함께 다루며 화면의 완성도를 높이고자 합니다.
+- 일본학과 경영학을 전공하며 문서 정리, 커뮤니케이션, 업무 지원에 관심을 넓혀 왔습니다.
+- <img height="18" alt="React" src="./assets/icons/react.png"> <img height="18" alt="TypeScript" src="./assets/icons/typescript.png"> React와 TypeScript를 활용해 웹 화면 구현과 서비스 흐름을 경험했습니다.
+- <img height="18" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 사용자 흐름과 정보 구조를 정리하며, 보기 쉬운 화면과 자료 구성을 고민합니다.
+- <img height="18" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"> AI 연동 프로젝트를 통해 디지털 도구가 업무와 서비스에 활용되는 과정을 경험했습니다.
 - ⭐ SSAFY 14기 자율 프로젝트에서 우수상을 수상했습니다.
-- <img height="18" alt="After Effects" src="./assets/icons/after-effects.png"> <img height="18" alt="Premiere Pro" src="./assets/icons/premiere.png"> 발표자료, 목업, 영상 등 결과물을 설득력 있게 보여주는 작업도 경험했습니다.
+- <img height="18" alt="After Effects" src="./assets/icons/after-effects.png"> <img height="18" alt="Premiere Pro" src="./assets/icons/premiere.png"> 발표자료, 목업, 영상 등 결과물을 이해하기 쉽게 전달하는 작업도 경험했습니다.
 
 <br />
 
