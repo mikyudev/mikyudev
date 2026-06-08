@@ -16,7 +16,7 @@
 
 <p>
   일본학과 경영학을 전공하고, SSAFY를 통해 SW·AI 활용 경험을 확장했습니다.<br />
-  문서 정리, 커뮤니케이션, 업무 지원 경험을 바탕으로 디지털 도구를 활용해 업무 흐름을 효율화하는 실무형 인재로 성장하고자 합니다.
+  문서화·커뮤니케이션·프론트엔드 구현 경험을 바탕으로, 디지털 도구를 활용해 업무 흐름을 더 명확하고 효율적으로 만드는 실무형 인재로 성장하고자 합니다.
 </p>
 
 <br />
@@ -24,7 +24,7 @@
 ### About me
 
 - <img height="18" alt="SSAFY" src="./assets/icons/ssafy.svg"> 2025.07 ~ 2026.07 삼성청년SW·AI아카데미 14기
-- 일본학과 경영학을 전공하며 문서 정리, 커뮤니케이션, 업무 지원에 관심을 넓혀 왔습니다.
+- 일본학과 경영학을 전공하며 문서화, 커뮤니케이션, 업무 흐름에 대한 이해를 쌓아왔습니다.
 - <img height="18" alt="React" src="./assets/icons/react.png"> <img height="18" alt="TypeScript" src="./assets/icons/typescript.png"> React와 TypeScript를 활용해 웹 화면 구현과 서비스 흐름을 경험했습니다.
 - <img height="18" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"> 사용자 흐름과 정보 구조를 정리하며, 보기 쉬운 화면과 자료 구성을 고민합니다.
 - <img height="18" alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"> AI 연동 프로젝트를 통해 디지털 도구가 업무와 서비스에 활용되는 과정을 경험했습니다.
@@ -46,12 +46,12 @@
 
 ### Project timeline
 
-| Project | Type | Period | Role |
+| Project | Type | Period | Contribution |
 | --- | --- | --- | --- |
-| [TheComet](https://github.com/mikyudev/TheComet) | SSAFY 14기 관통 프로젝트 | 2025.11.19 ~ 2025.12.25 | 웹 프로젝트 기초 구현 경험 |
-| [coordinator](https://github.com/mikyudev/coordinator) | SSAFY 14기 공통 프로젝트 | 2026.01.06 ~ 2026.02.09 | AI 연동, FastAPI, 프론트 일부, Figma, 발표자료 |
-| [hyanggi-log](https://github.com/mikyudev/hyanggi-log) | SSAFY 14기 특화 프로젝트 | 2026.02.19 ~ 2026.04.03 | 프론트엔드, UI/UX, Figma, After Effects 영상 제작 |
-| [hangyul](https://github.com/mikyudev/hangyul) | SSAFY 14기 자율 프로젝트 · 우수상 | 2026.04.06 ~ 2026.05.27 | 프론트엔드, UI/UX, 리팩토링, 영상 편집 |
+| [TheComet](https://github.com/mikyudev/TheComet) | SSAFY 14기 관통 프로젝트 | 2025.11.19 ~ 2025.12.25 | 웹 프로젝트 기초 구현, Git 협업 경험 |
+| [coordinator](https://github.com/mikyudev/coordinator) | SSAFY 14기 공통 프로젝트 | 2026.01.06 ~ 2026.02.09 | AI 연동, FastAPI, UI 구현, Figma, 발표자료 |
+| [hyanggi-log](https://github.com/mikyudev/hyanggi-log) | SSAFY 14기 특화 프로젝트 | 2026.02.19 ~ 2026.04.03 | 프론트엔드, 사용자 흐름 정리, UI/UX, Figma, 영상 제작 |
+| [hangyul](https://github.com/mikyudev/hangyul) | SSAFY 14기 자율 프로젝트 · 우수상 | 2026.04.06 ~ 2026.05.27 | 프론트엔드, 업무 흐름 정리, UI/UX, 리팩토링, 영상 편집 |
 
 <br />
 
