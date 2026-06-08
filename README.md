@@ -11,7 +11,7 @@
 # Hello! I'm Gyuseong (이규성)
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3200&pause=900&color=64F4C8&vCenter=true&width=850&height=28&lines=I%27m+a+frontend+developer+from+Korea%2C+building+clear+UI+and+natural+interactions+with+a+responsible+mindset." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=750&color=64F4C8&vCenter=true&width=520&height=28&lines=Frontend+Developer;React+%26+TypeScript;Clear+UI%2C+smooth+flow;Learning+by+building" alt="Typing introduction" />
 </p>
 
 <br />
