@@ -52,5 +52,5 @@
 <a href="https://mikyu-portfolio.vercel.app/">Portfolio</a> · <a href="https://github.com/mikyudev">GitHub</a> · <a href="mailto:1943067@donga.ac.kr">Email</a>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mikyudev&label=&color=0d1117&style=flat-square" height="14" alt="" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=mikyudev&label=&countColor=%230d1117&labelColor=%230d1117&style=flat-square" height="13" alt="" />
 </p>
