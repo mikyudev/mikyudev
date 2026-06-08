@@ -10,7 +10,9 @@
 
 # Hello! I'm Gyuseong (이규성)
 
-I'm a frontend developer from Korea, building clear UI and natural interactions with a responsible mindset.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3200&pause=900&color=64F4C8&vCenter=true&width=850&height=28&lines=I%27m+a+frontend+developer+from+Korea%2C+building+clear+UI+and+natural+interactions+with+a+responsible+mindset." alt="Typing introduction" />
+</p>
 
 <br />
 
@@ -48,3 +50,7 @@ I'm a frontend developer from Korea, building clear UI and natural interactions 
 <br />
 
 <a href="https://mikyu-portfolio.vercel.app/">Portfolio</a> · <a href="https://github.com/mikyudev">GitHub</a> · <a href="mailto:1943067@donga.ac.kr">Email</a>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mikyudev&label=&color=0d1117&style=flat-square" height="14" alt="" />
+</p>
