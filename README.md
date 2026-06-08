@@ -11,7 +11,7 @@
 # Hello! I'm Gyuseong (이규성)
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=750&color=64F4C8&vCenter=true&width=520&height=28&lines=Frontend+Developer;React+%26+TypeScript;Clear+UI%2C+smooth+flow;Learning+by+building" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2600&pause=750&color=64F4C8&vCenter=true&width=760&height=28&lines=Business+Operations+%26+AI+%7C+%EC%97%85%EB%AC%B4+%ED%9D%90%EB%A6%84%EA%B3%BC+AI+%ED%99%9C%EC%9A%A9%EC%97%90+%EA%B4%80%EC%8B%AC%3BDigital+Business+Support+%7C+%EB%94%94%EC%A7%80%ED%84%B8+%EA%B8%B0%EB%B0%98+%EC%97%85%EB%AC%B4%EC%A7%80%EC%9B%90+%EC%A7%80%ED%96%A5%3BOffice+Operations+%26+AI+%7C+%EC%82%AC%EB%AC%B4+%EC%97%85%EB%AC%B4%EC%99%80+AI+%ED%99%9C%EC%9A%A9+%ED%95%99%EC%8A%B5%3BBusiness+Support+Mindset+%7C+%EC%B1%85%EC%9E%84%EA%B0%90+%EC%9E%88%EB%8A%94+%EC%97%85%EB%AC%B4%EC%A7%80%EC%9B%90+%ED%83%9C%EB%8F%84%3BAdministrative+Operations+%7C+%ED%96%89%EC%A0%95%C2%B7%EC%82%AC%EB%AC%B4+%EC%97%85%EB%AC%B4+%EC%9D%B4%ED%95%B4+%ED%99%95%EC%9E%A5" alt="Typing introduction" />
 </p>
 
 <br />
