@@ -34,7 +34,7 @@
 
 <br />
 
-### Stack
+### Tools & Skills
 
 <p>
   <code><img height="22" alt="React" src="./assets/icons/react.png"></code>
@@ -42,6 +42,11 @@
   <code><img height="22" alt="JavaScript" src="./assets/icons/javascript.png"></code>
   <code><img height="22" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></code>
 </p>
+
+- React / TypeScript: 프로젝트 화면 구현과 사용자 흐름 구성을 경험했습니다.
+- Figma: 화면 구조, 사용자 흐름, 발표용 목업을 정리했습니다.
+- FastAPI / AI API: AI 기능 연동 흐름과 응답 처리 과정을 경험했습니다.
+- Premiere Pro / After Effects: 발표자료와 영상 포트폴리오로 결과물을 시각화했습니다.
 
 <br />
 
@@ -59,25 +64,25 @@
   <tbody>
     <tr>
       <td nowrap><a href="https://github.com/mikyudev/TheComet">TheComet</a></td>
-      <td nowrap>SSAFY 관통</td>
+      <td nowrap>SSAFY 관통 프로젝트</td>
       <td nowrap>25.11.19 ~ 25.12.25</td>
       <td nowrap>웹 기초 구현 · Git 협업</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/mikyudev/coordinator">coordinator</a></td>
-      <td nowrap>SSAFY 공통</td>
+      <td nowrap>SSAFY 공통 프로젝트</td>
       <td nowrap>26.01.06 ~ 26.02.09</td>
       <td nowrap>AI 연동 · FastAPI · UI 구현 · Figma · 발표자료</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/mikyudev/hyanggi-log">hyanggi-log</a></td>
-      <td nowrap>SSAFY 특화</td>
+      <td nowrap>SSAFY 특화 프로젝트</td>
       <td nowrap>26.02.19 ~ 26.04.03</td>
       <td nowrap>프론트엔드 · 사용자 흐름 · UI/UX · Figma · 영상</td>
     </tr>
     <tr>
       <td nowrap><a href="https://github.com/mikyudev/hangyul">hangyul</a></td>
-      <td nowrap>SSAFY 자율 · 우수상</td>
+      <td nowrap>SSAFY 자율 프로젝트 · 우수상</td>
       <td nowrap>26.04.06 ~ 26.05.27</td>
       <td nowrap>프론트엔드 · 업무 흐름 · UI/UX · 리팩토링 · 영상</td>
     </tr>
